@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: SpringCloud-secondProject
+server:
+  port: 8082
